@@ -19,9 +19,9 @@
 // Question 6 & 7
 {
     /* <script>
-                                                                                                                                                                                                                                                                                                                                                                let d = new Date();
-                                                                                                                                                                                                                                                                                                                                                                document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
-                                                                                                                                                                                                                                                                                                                                                                </script>  */
+                                                                                                                                                                                                                                                                                                                                                                  let d = new Date();
+                                                                                                                                                                                                                                                                                                                                                                  document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
+                                                                                                                                                                                                                                                                                                                                                                  </script>  */
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -393,7 +393,7 @@
 // }
 // document.write("<br>");
 
-// Question 6  incomplete.......................................................................
+// Question 6
 // var english = 54;
 // var math = 74;
 // var urdu = 48;
