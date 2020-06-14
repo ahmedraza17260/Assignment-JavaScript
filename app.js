@@ -19,9 +19,9 @@
 // Question 6 & 7
 {
     /* <script>
-                                                                                                                                                                                                                                                                                                                                                                  let d = new Date();
-                                                                                                                                                                                                                                                                                                                                                                  document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
-                                                                                                                                                                                                                                                                                                                                                                  </script>  */
+                                                                                                                                                                                                                                                                                                                                                                      let d = new Date();
+                                                                                                                                                                                                                                                                                                                                                                      document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
+                                                                                                                                                                                                                                                                                                                                                                      </script>  */
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -1240,3 +1240,4 @@
 //         document.write(i + ",");
 //     }
 // }
+// document.write("<br>");
